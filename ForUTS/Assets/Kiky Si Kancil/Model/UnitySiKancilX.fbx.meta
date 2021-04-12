@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 5c91a8a403b1ef641a1eb9467dd1c012
+timeCreated: 1618128949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.R
+    100004: body
+    100006: cape.L
+    100008: cape.L_end
+    100010: cape.R
+    100012: cape.R_end
+    100014: chest
+    100016: foot.L
+    100018: foot.R
+    100020: hand1.L
+    100022: hand1.R
+    100024: hand2.L
+    100026: hand2.R
+    100028: head
+    100030: head_end
+    100032: hip
+    100034: Index_finger1.L
+    100036: Index_finger1.R
+    100038: Index_finger2.L
+    100040: Index_finger2.L_end
+    100042: Index_finger2.R
+    100044: Index_finger2.R_end
+    100046: Kiky
+    100048: kikY's bone
+    100050: leg1.L
+    100052: leg1.R
+    100054: leg2.L
+    100056: leg2.L_end
+    100058: leg2.R
+    100060: leg2.R_end
+    100062: Leg_IK.L
+    100064: Leg_IK.L_end
+    100066: Leg_IK.R
+    100068: Leg_IK.R_end
+    100070: master
+    100072: shoulder.L
+    100074: shoulder.R
+    100076: spine
+    100078: thumb1.L
+    100080: thumb1.R
+    100082: thumb2.L
+    100084: thumb2.L_end
+    100086: thumb2.R
+    100088: thumb2.R_end
+    100090: toe.L
+    100092: toe.L_end
+    100094: toe.R
+    100096: toe.R_end
+    100098: //RootNode
+    100100: wide_finger1.L
+    100102: wide_finger1.R
+    100104: wide_finger2.L
+    100106: wide_finger2.L_end
+    100108: wide_finger2.R
+    100110: wide_finger2.R_end
+    400000: arm.L
+    400002: arm.R
+    400004: body
+    400006: cape.L
+    400008: cape.L_end
+    400010: cape.R
+    400012: cape.R_end
+    400014: chest
+    400016: foot.L
+    400018: foot.R
+    400020: hand1.L
+    400022: hand1.R
+    400024: hand2.L
+    400026: hand2.R
+    400028: head
+    400030: head_end
+    400032: hip
+    400034: Index_finger1.L
+    400036: Index_finger1.R
+    400038: Index_finger2.L
+    400040: Index_finger2.L_end
+    400042: Index_finger2.R
+    400044: Index_finger2.R_end
+    400046: Kiky
+    400048: kikY's bone
+    400050: leg1.L
+    400052: leg1.R
+    400054: leg2.L
+    400056: leg2.L_end
+    400058: leg2.R
+    400060: leg2.R_end
+    400062: Leg_IK.L
+    400064: Leg_IK.L_end
+    400066: Leg_IK.R
+    400068: Leg_IK.R_end
+    400070: master
+    400072: shoulder.L
+    400074: shoulder.R
+    400076: spine
+    400078: thumb1.L
+    400080: thumb1.R
+    400082: thumb2.L
+    400084: thumb2.L_end
+    400086: thumb2.R
+    400088: thumb2.R_end
+    400090: toe.L
+    400092: toe.L_end
+    400094: toe.R
+    400096: toe.R_end
+    400098: //RootNode
+    400100: wide_finger1.L
+    400102: wide_finger1.R
+    400104: wide_finger2.L
+    400106: wide_finger2.L_end
+    400108: wide_finger2.R
+    400110: wide_finger2.R_end
+    4300000: Kiky
+    7400000: kikY's bone|idle
+    7400002: kikY's bone|PoseLib
+    7400004: kikY's bone|RUN
+    7400006: kikY's bone|Walk
+    9500000: //RootNode
+    13700000: Kiky
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kiki
+    second: {fileID: 2100000, guid: 467506a3aa9d81846b6f4855bb84c280, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
